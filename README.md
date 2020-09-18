@@ -4,7 +4,7 @@ This is a Chess game project made by using Python language.
 It is a 2 player chess game and it supports all the features of the game like move validation, Checkmate-Stalemate detection, Pawn promotion.
 Apart from all valid chess logic, the GUI lets user know:
 --What are the possible moves for a specific piece 
---Wheather the performed move is legal or not
+--Whether the performed move is legal or not
 --User can simply reset the game typing "r" key and undo moves by typing "u" key in the keyboard.
 
 
